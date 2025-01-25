@@ -1,6 +1,6 @@
 # cloudflared-GD
 
-Installation of Cloudflared in Termux  @gdthehacker
+Installation of Cloudflared in Termux  
 ==========================================================
 
 Step 1: Update and Upgrade Packages
