@@ -47,7 +47,8 @@ bash cloudflared-@gdthehacker.sh
 Detailed Documentation 
 ----------------------------------------
 
-Refer to [𝔹𝕝𝕠𝕘𝕘𝕖𝕣](https://asura-the-hacker.blogspot.com/2025/01/cloudflared-installation.html) 
+Refer to our blog to read all about this tool... 
+[𝔹𝕝𝕠𝕘𝕘𝕖𝕣](https://gdthehacker.blogspot.com/2022/10/blog-post.html) 
 
 
 detailing the complete installation process accompanied by illustrative images. Alternatively,
