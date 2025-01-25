@@ -50,4 +50,5 @@ Detailed Documentation
 Refer to [𝔹𝕝𝕠𝕘𝕘𝕖𝕣](https://asura-the-hacker.blogspot.com/2025/01/cloudflared-installation.html) 
 
 
-detailing the complete installation process accompanied by illustrative images. Alternatively, explore the [𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞](https://t.me/GD_HACKER) exhibiting the step-by-step execution.
+detailing the complete installation process accompanied by illustrative images. Alternatively,
+explore the [𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞](https://t.me/GD_HACKER) exhibiting the step-by-step execution.
