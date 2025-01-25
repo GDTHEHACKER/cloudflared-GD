@@ -16,7 +16,7 @@ Step 2: Cloning the Cloudflared Repository
 
 Clone the official Cloudflared repository utilizing the below-mentioned command:
 ```bash
-git clone https://github.com/rajbhx/cloudflared-GD
+https://github.com/GDTHEHACKER/cloudflared-GD
 ```
 This action shall populate the local machine with the source materials needed for successful Cloudflared deployment.
 
