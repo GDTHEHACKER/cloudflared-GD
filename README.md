@@ -47,4 +47,7 @@ bash cloudflared-@gdthehacker.sh
 Detailed Documentation and Video Tutorial
 ----------------------------------------
 
-Refer to [this extensive article](https://####) detailing the complete installation process accompanied by illustrative images. Alternatively, explore the [video tutorial on YouTube](https://xxxxx) exhibiting the step-by-step execution.
+Refer to [this extensive article](https://####) 
+https://www.blogger.com/blog-this.g?u={url}&n={title}&t={text}
+
+detailing the complete installation process accompanied by illustrative images. Alternatively, explore the [video tutorial on YouTube](https://xxxxx) exhibiting the step-by-step execution.
