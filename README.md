@@ -44,10 +44,10 @@ Launch the previously enabled script, thereby instigating the automated Cloudfla
 bash cloudflared-@gdthehacker.sh
 ```
 ----------------------------------------
-Detailed Documentation and Video Tutorial
+Detailed Documentation 
 ----------------------------------------
 
-Refer to [this extensive article](https://####) 
-https://www.blogger.com/blog-this.g?u={url}&n={title}&t={text}
+Refer to [𝔹𝕝𝕠𝕘𝕘𝕖𝕣](https://asura-the-hacker.blogspot.com/2025/01/cloudflared-installation.html) 
 
-detailing the complete installation process accompanied by illustrative images. Alternatively, explore the [video tutorial on YouTube](https://xxxxx) exhibiting the step-by-step execution.
+
+detailing the complete installation process accompanied by illustrative images. Alternatively, explore the [𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞](https://t.me/GD_HACKER) exhibiting the step-by-step execution.
