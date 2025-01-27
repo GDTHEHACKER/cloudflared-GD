@@ -28,7 +28,8 @@ yes "" | apt install golang git debianutils make
 
 echo -e $RED "-- Downloading cloudflared source"
 
-git clone https://github.com/cloudflare/cloudflared.git --depth=1
+#git clone https://github.com/cloudflare/cloudflared.git --depth=1
+wget https://github.com/cloudflare/cloudflared/releases/download/2021.10.3/cloudflared-linux-arm64
 
 cd cloudflared
 
